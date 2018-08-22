@@ -1,3 +1,13 @@
+---
+tags:
+    - Android
+	- 自定义View
+	- 高级UI
+	- Shader
+---
+
+
+
 我们在Android的Shader（上）中已经知道Shader的基本用法了。接下来实现一些具体的效果。
 
 Android高级渲染Shader（上）：http://www.jianshu.com/p/5fb82b189094

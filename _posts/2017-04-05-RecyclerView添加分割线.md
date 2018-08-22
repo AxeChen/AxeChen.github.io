@@ -1,3 +1,11 @@
+---
+tags:
+    - Android
+	- RecycleView
+---
+
+
+
 RecycleView没有设置分割线的方法。有两种方法可以实现分割线。一种方法是在Item中设置一个分割线（用过这个方法，这种方法实际上是非常麻烦的）。
 另外是自定一个分割线（本文主要讲的）。
 我实现这个效果之后找到一篇非常不错的博客：http://blog.csdn.net/pengkv/article/details/50538121

@@ -1,3 +1,12 @@
+---
+tags:
+    - Android
+	- 自定义View
+	- 高级UI
+	- Shader
+---
+
+
 在安卓中需要做一些渲染的UI的渐变效果。实现这些效果我们需要了解安卓渐变的使用。因此我们需要了解一个非常重要的类——Shader。
 
 ![Shader](http://upload-images.jianshu.io/upload_images/1930161-5b0dc864022239e7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

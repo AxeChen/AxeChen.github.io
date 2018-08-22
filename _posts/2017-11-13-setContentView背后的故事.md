@@ -1,3 +1,11 @@
+---
+tags:
+    - Android
+	- Activity
+	- 源码解析
+---
+
+
 Android程序员都知道Activity调用setContentView的方法是将xml布局文件加载到Activity中。那么：
 **调用setContentVIew后到底是怎样将xml布局文件加载到Activity中去的？**
 **继承AppCompatActivity和继承Activity的Activity布局结构有什么不同？**

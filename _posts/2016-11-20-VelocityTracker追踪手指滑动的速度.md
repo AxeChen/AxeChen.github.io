@@ -1,3 +1,11 @@
+---
+tags:
+    - Android
+	- VelocityTracker
+---
+
+
+
 如何在View中追踪手指的滑动速度呢？
 >关键类：**VelocityTracker**
 思路：**在VIew的onTouchEvent（）中，当MotionEvent.ACTION_DOWN时初始化VelocityTracker， 在MotionEvent.ACTION_MOVE进行追踪，当滑动停止之后(MotionEvent.ACTION_UP or MotionEvent.ACTION_CANCEL)不要忘记调用clear（）来回收内存.**

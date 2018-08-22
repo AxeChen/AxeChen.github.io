@@ -1,3 +1,13 @@
+---
+tags:
+    - Android
+	- 自定义View
+	- 高级UI
+	- SVG
+	- Vector-Drawable
+---
+
+
 会议上，产品经理突然眼里闪烁着一丝诡异的光，随后提出一个需求：Android的屏幕适配要从320X480的尺寸开始做适配，一直适配到1920X1080尺寸就行了。随后扬长而去。留下喷了一地老血的设计师和程序员。
 设计师：我得切多少套图来着？
 ![我得切多少套图来着？](http://upload-images.jianshu.io/upload_images/1930161-43362a3841e50867.gif?imageMogr2/auto-orient/strip)
