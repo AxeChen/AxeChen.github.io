@@ -1,9 +1,9 @@
 # Site settings
-title: 再峰的博客
+title: 陈再峰
 SEOTitle: 再峰 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: 1137366723@qq.com
-description: "Every failure is leading towards success."
+description: ""
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "https://axechen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
