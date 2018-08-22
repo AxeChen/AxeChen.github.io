@@ -6,9 +6,7 @@ author:     陈再峰
 tags:
     - Android
 	- VelocityTracker
----
-
-
+---    
 
 如何在View中追踪手指的滑动速度呢？
 >关键类：**VelocityTracker**
