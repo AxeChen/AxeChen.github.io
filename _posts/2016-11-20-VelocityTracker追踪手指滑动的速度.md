@@ -1,4 +1,8 @@
 ---
+layout:     post
+title:      VelocityTracker追踪手指滑动的速度
+date:       2016-11-20
+author:     陈再峰
 tags:
     - Android
 	- VelocityTracker

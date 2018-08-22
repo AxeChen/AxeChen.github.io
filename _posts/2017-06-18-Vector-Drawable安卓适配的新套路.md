@@ -1,4 +1,8 @@
 ---
+layout:     post
+title:      Vector Drawable安卓适配的新套路
+date:       2017-07-09
+author:     陈再峰
 tags:
     - Android
 	- 自定义View

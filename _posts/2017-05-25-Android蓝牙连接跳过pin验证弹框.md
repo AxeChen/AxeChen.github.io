@@ -1,4 +1,8 @@
 ---
+layout:     post
+title:      Android蓝牙连接跳过pin验证弹框
+date:       2017-05-25
+author:     陈再峰
 tags:
     - Android
 	- 蓝牙

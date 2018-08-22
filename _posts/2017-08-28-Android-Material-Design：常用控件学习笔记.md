@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      Android Material Design：常用控件学习笔记
+date:       2017-08-28
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
 tags:
     - Android
 	- Material Design

@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      封装Retrofit2+RxJava2网络请求框架
+date:       2018-03-03
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
 tags:
     - Android
 	- Retrofit

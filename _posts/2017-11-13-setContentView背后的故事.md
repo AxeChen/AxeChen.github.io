@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      setContentView背后的故事
+date:       2018-11-13
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
 tags:
     - Android
 	- Activity

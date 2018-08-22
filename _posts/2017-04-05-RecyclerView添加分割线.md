@@ -1,4 +1,8 @@
 ---
+layout:     post
+title:      RecyclerView添加分割线
+date:       2017-04-05
+author:     陈再峰
 tags:
     - Android
 	- RecycleView

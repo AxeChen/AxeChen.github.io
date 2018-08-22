@@ -1,4 +1,8 @@
 ---
+layout:     post
+title:      GestureDetector
+date:       2016-11-20
+author:     陈再峰
 tags:
     - Android
 	- GestureDetector

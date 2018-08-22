@@ -1,5 +1,8 @@
-
 ---
+layout:     post
+title:      intent-filter的action，category，data匹配规则
+date:       2016-09-27
+author:     陈再峰
 tags:
     - Android
     - intent-filter

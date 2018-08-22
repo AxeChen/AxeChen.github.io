@@ -1,4 +1,8 @@
 ---
+layout:     post
+title:      Android高级渲染Shader（上）——基本用法
+date:       2017-06-01
+author:     陈再峰
 tags:
     - Android
 	- 自定义View

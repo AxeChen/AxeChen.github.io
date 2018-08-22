@@ -1,4 +1,9 @@
 ---
+layout:     post
+title:      Android高级渲染 - 用ColorMatrix做美图小软件
+date:       2017-08-04
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
 tags:
     - Android
 	- 自定义View

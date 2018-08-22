@@ -1,4 +1,10 @@
 ---
+layout:     post
+title:      WanAndroid（Kotlin）开源完整项目
+date:       2018-05-14
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
 tags:
     - Android
 	- WanAndroid

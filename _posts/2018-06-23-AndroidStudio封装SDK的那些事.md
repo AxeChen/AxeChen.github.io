@@ -1,4 +1,10 @@
 ---
+layout:     post
+title:      AndroidStudio封装SDK的那些事
+date:       2018-06-23
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
 tags:
     - Android
 	- SDK
