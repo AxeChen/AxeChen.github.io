@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      intent-filter的action，category，data匹配规则
+subtitle:   intent-filter的action，category，data匹配规则
+date:       2016-09-27
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - intent-filter
+    - 开源框架
+---
+
 我们知道有两种方式来启动Activity，显示调用和隐式调用。当使用隐式调用时，又会涉及到IntentFilter的匹配规则。我确信大多数开发者很少关注隐式调用，因为平时开发中用到大多数是显示调用。例如：用Intent直接打开一个Activity，或者用Intent通过包名等其他信息打开另外一个应用等。而隐式调用则使用的比较少，当然也不是完全不使用。例如：当我们需要打开浏览器访问某个链接时，手机上可能存在多个浏览器，我们也无法拿到某一个浏览器的包名，那么一般情况下我们会写如下代码：  
 ```
   Intent intent = new Intent(); 
