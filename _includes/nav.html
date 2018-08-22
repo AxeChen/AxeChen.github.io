@@ -21,9 +21,9 @@
                         <a href="{{ site.baseurl }}/">博客主页</a>
                     </li>
                     {% for page in site.pages %}{% if page.title %}
-                    <!--<li>
+                    <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                    </li> -->
+                    </li>
                     {% endif %}{% endfor %}
                 </ul>
             </div>
