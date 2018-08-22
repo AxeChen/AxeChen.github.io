@@ -1,15 +1,3 @@
----
-layout:     post
-title:      Android Material Design：BottomSheetBehavior
-date:       2017-09-17
-author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
-tags:
-    - Android
-	- Material Design
----
-
-
 BottomSheet是design23.3推出的底部动作条，google原生自带的软件就有这种效果。
 效果图：
 ![Google联系人](http://upload-images.jianshu.io/upload_images/1930161-553308f727d37c38.gif?imageMogr2/auto-orient/strip)

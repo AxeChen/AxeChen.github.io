@@ -1,14 +1,3 @@
----
-layout:     post
-title:      Android Material Design：常用控件学习笔记
-date:       2017-08-28
-author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
-tags:
-    - Android
-	- Material Design
----
-
 Google I/O 2014 发布了Material Design。希望统一 Android平台设计语言规范。然而再国内的很多产品和设计师并不吃这一套，还是各种仿IOS的UI。作为一个Google粉当然要学会Android Material控件的使用。而且这些控件使用起来非常方便。以下是Android Material常用控件的整理。
 **请注意：介绍了多个控件、多图预警，流量党珍惜下流量。**
 >介绍的控件：  

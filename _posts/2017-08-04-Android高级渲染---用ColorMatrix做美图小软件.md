@@ -1,18 +1,3 @@
----
-layout:     post
-title:      Android高级渲染 - 用ColorMatrix做美图小软件
-date:       2017-08-04
-author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
-tags:
-    - Android
-	- 自定义View
-	- 高级UI
-	- 滤镜
-	- ColorMatrix
----
-
-
 > 隔了一年多去看这篇文章，发现很多地方会有问题，比如7.0后拍照的问题，当时用的6.0的系统，所以7.0以上的系统一定会崩溃。还有就是加完滤镜之后无法修改模糊效果。
 源码等可能暂时不维护，存在不少问题。
 
