@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      Android蓝牙连接跳过pin验证弹框
+subtitle:   还有这种操作？
+date:       2017-05-25
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - 蓝牙
+---
+
 在工作中遇到一个问题：在蓝牙连接时需要跳过pin验证，当时找了很多博客，最后基本解决（有些room会出问题），因为在简书中没有搜到该问题的解决方案所以就写下这篇博客。
 基本解决思路：
 >1、使用反射调用BluetoothDevice的setPin方法。

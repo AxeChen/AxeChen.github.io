@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      Android高级渲染Shader（上）——基本用法
+subtitle:   还有这种操作？
+date:       2017-06-01
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - Shader
+---
+
 在安卓中需要做一些渲染的UI的渐变效果。实现这些效果我们需要了解安卓渐变的使用。因此我们需要了解一个非常重要的类——Shader。
 
 ![Shader](http://upload-images.jianshu.io/upload_images/1930161-5b0dc864022239e7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

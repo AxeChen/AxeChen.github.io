@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      VelocityTracker追踪手指滑动的速度
-subtitle:   手指在View里面滑动是的速度
+subtitle:   手指在View里面滑动的速度
 date:       2016-11-20
 author:     陈再峰
 header-img: img/post-bg-ios9-web.jpg
