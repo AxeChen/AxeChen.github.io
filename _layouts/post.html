@@ -89,6 +89,9 @@ layout: default
                 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
                 <div id="gitalk-container"></div>
                 <script type="text/javascript">
+                    var str = window.location.pathname;
+                    var index = str.lastIndexOf("/");
+                    var gid = str.substring(index);
                     var gitalk = new Gitalk({
                     clientID: '{{site.gitalk.clientID}}',
                     clientSecret: '{{site.gitalk.clientSecret}}',
@@ -96,7 +99,7 @@ layout: default
                     owner: '{{site.gitalk.owner}}',
                     admin: ['{{site.gitalk.admin}}'],
                     distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-                    id: window.location.pathname,
+                    id: gid,
                     });
                     gitalk.render('gitalk-container');
                 </script>
