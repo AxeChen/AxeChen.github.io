@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      WanAndroid（Kotlin）开源完整项目
+subtitle:   不知道WanAnroid没关系，不知道张鸿洋那你就out了！WanAndroid主页：http://www.wanandroid.com/index。
+date:       2018-05-14
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - Kotlin
+    - 项目
+---
+
 很久没更新博客了，因为换了城市，工作，搬家... 一堆事。学完Kotlin基础的用法之后自然是想找个项目练习这门新语言。后来发现了张鸿洋老师的WanAndroid项目提供了公开的API，并且鼓励开发者做一个自己的WanAndroid安卓客户端，于是我便着手做了这个项目。
 
 WanAndroid主页：[http://www.wanandroid.com/index](http://www.wanandroid.com/index)   

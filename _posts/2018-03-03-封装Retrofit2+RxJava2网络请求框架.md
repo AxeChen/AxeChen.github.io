@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      封装Retrofit2+RxJava2网络请求框架
+subtitle:   跟着博客，一步一步封装一个自己的网络请求框架吧。
+date:       2018-03-03
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - Retrofit2+RxJava2
+---
+
 因为Retrofit方便使用和支持RxJava，所以Retrofit已经成为了非常流行的网络框架。学会封装和使用Retrofit网络请求框架练练手是提升自己架构水平一个非常好的示例。而且当成功封装第一个组件时，再次遇到需要封装组件这样的任务也会变得得心应手。
 
 

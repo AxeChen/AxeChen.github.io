@@ -1,6 +1,16 @@
 ---
 layout:     post
 title:      Android Material Design：使用Palette优化界面色彩搭配。
+subtitle:   Google的MD设计控件，赶紧学起来！
+date:       2017-09-11
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - Material Design
+---
+
 我写过一篇博客介绍了常用Material Design控件的使用。
 http://www.jianshu.com/p/776cc6329fff
 本想把大部分的Material Design的知识点写到一个博客中，结果无奈东西太多只好分开写。这篇博客介绍的是Palette调色板的使用。

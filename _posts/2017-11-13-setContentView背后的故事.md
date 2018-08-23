@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      setContentView背后的故事
+subtitle:   一步一步解析setContentView方法，探究不同情况下的Activity的层数。
+date:       2017-11-13
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - Activity
+    - 源码解析
+---
+
 Android程序员都知道Activity调用setContentView的方法是将xml布局文件加载到Activity中。那么：
 **调用setContentVIew后到底是怎样将xml布局文件加载到Activity中去的？**
 **继承AppCompatActivity和继承Activity的Activity布局结构有什么不同？**

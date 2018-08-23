@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      AndroidStudio封装SDK的那些事
+subtitle:   想知道AndroidStudio如何封装SDK吗？想知道AndroidStudio和Eclipse如何接入SDK吗？
+date:       2018-06-23
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - SDK
+---
+
 首先SDK是提供给别人调用的工具。所以常见的SDK都是以jar包，so库，aar包等方式导入APP项目中。然后提供一些公开的API供接入方调用。所以在Androidstudio中如果需要生成jar或者aar，就需要将module变成library。
 #### 1、AndroidStudio生成library
 在这里介绍AndroidStudio两种生成library的方式。
