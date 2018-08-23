@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      GestureDetector
+subtitle:   安卓的手势判断
+date:       2016-11-20
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - GestureDetector
+---
+
 我记得有个在工作中有个需求是关于判断双击。当时我一个同事给我一个方案：用计时的方法去做，在view的onTouchEvent中。当ACTION_DOWN时记录当时的时间。然后第二次ACTION_DOWN时再记录一次，通过这两次点击的时间间隔来判断是不是双击。 当时我就采纳了这个建议，效果也做出来了，还有点小高兴。
 某天下午，偶然看到GestureDetector这个东西然后就大概的了解了一下。
 突然觉得在onTouch里面处理双击有点过于麻烦。感觉我和同事都是：
