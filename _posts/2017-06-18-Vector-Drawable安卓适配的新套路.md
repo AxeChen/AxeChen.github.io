@@ -4,7 +4,7 @@ title:      Vector-Drawable安卓适配的新套路
 subtitle:   未来图标适配的趋势
 date:       2017-06-18
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

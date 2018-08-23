@@ -4,7 +4,7 @@ title:      RecyclerView添加分割线
 subtitle:   
 date:       2017-04-05
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

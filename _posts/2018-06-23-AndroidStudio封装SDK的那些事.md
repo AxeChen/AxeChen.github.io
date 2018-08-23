@@ -4,7 +4,7 @@ title:      AndroidStudio封装SDK的那些事
 subtitle:   想知道AndroidStudio如何封装SDK吗？想知道AndroidStudio和Eclipse如何接入SDK吗？
 date:       2018-06-23
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

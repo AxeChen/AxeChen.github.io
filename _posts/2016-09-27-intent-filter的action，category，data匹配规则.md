@@ -4,7 +4,7 @@ title:      intent-filter的action，category，data匹配规则
 subtitle:   action，category，data匹配规则; Activity的隐式调用
 date:       2016-09-27
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

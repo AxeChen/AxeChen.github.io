@@ -4,7 +4,7 @@ title:      封装Retrofit2+RxJava2网络请求框架
 subtitle:   跟着博客，一步一步封装一个自己的网络请求框架吧。
 date:       2018-03-03
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

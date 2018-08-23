@@ -4,7 +4,7 @@ title:      Android-Material-Design：常用控件学习笔记
 subtitle:   Google的MD设计控件，赶紧学起来！
 date:       2017-08-28
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

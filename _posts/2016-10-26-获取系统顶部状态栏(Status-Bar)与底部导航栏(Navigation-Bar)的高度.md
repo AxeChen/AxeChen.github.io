@@ -4,7 +4,7 @@ title:      获取系统顶部状态栏(Status-Bar)与底部导航栏(Navigation
 subtitle:   
 date:       2016-10-26
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

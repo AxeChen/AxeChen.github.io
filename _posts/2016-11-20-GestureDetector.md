@@ -4,7 +4,7 @@ title:      GestureDetector
 subtitle:   安卓的手势判断
 date:       2016-11-20
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

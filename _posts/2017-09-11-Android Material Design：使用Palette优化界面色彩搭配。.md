@@ -4,7 +4,7 @@ title:      Android Material Design：使用Palette优化界面色彩搭配。
 subtitle:   Google的MD设计控件，赶紧学起来！
 date:       2017-09-11
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

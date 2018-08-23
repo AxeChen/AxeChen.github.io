@@ -4,7 +4,7 @@ title:      setContentView背后的故事
 subtitle:   一步一步解析setContentView方法，探究不同情况下的Activity的层数。
 date:       2017-11-13
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

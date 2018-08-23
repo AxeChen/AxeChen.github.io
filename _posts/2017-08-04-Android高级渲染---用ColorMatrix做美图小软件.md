@@ -4,7 +4,7 @@ title:      Android高级渲染---用ColorMatrix做美图小软件
 subtitle:   图片加滤镜等操作，ColorMatrix的一些使用。
 date:       2017-08-04
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android

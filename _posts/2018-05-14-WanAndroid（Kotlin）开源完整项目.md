@@ -4,7 +4,7 @@ title:      WanAndroid（Kotlin）开源完整项目
 subtitle:   不知道WanAnroid没关系，不知道张鸿洋那你就out了！WanAndroid主页：http://www.wanandroid.com/index。
 date:       2018-05-14
 author:     陈再峰
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android
