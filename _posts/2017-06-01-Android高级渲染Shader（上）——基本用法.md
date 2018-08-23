@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Android高级渲染Shader（上）——基本用法
-subtitle:   还有这种操作？
+subtitle:   高级渲染了解下？
 date:       2017-06-01
 author:     陈再峰
 header-img: img/post-bg-ios9-web.jpg

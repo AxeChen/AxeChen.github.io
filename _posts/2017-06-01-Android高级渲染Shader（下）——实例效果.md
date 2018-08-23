@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      Android高级渲染Shader（下）——实例效果
+subtitle:   高级渲染了解下？
+date:       2017-06-01
+author:     陈再峰
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - Shader
+---
+
 我们在Android的Shader（上）中已经知道Shader的基本用法了。接下来实现一些具体的效果。
 
 Android高级渲染Shader（上）：http://www.jianshu.com/p/5fb82b189094
