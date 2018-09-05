@@ -12,6 +12,7 @@ tags:
 	- FFmpeg
 ---
 
+
 AndroidStudio导入FFmpeg动态库和一般的NDK开发导入动态库一样。首先我们准备好动态库。
 那么FFmpeg的动态库哪里来呢？
 

@@ -11,6 +11,7 @@ tags:
     - SDK
 ---
 
+
 首先SDK是提供给别人调用的工具。所以常见的SDK都是以jar包，so库，aar包等方式导入APP项目中。然后提供一些公开的API供接入方调用。所以在Androidstudio中如果需要生成jar或者aar，就需要将module变成library。
 #### 1、AndroidStudio生成library
 在这里介绍AndroidStudio两种生成library的方式。
