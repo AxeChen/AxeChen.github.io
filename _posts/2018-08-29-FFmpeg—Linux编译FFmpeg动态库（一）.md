@@ -2,13 +2,12 @@
 layout:     post
 title:      FFmpeg—Linux编译FFmpeg动态库（一）
 subtitle:   FFmpeg系列
-date:       2018-08-28
+date:       2018-08-29
 author:     陈再峰
 header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android
-    - NDK
 	- FFmpeg
 ---
 
