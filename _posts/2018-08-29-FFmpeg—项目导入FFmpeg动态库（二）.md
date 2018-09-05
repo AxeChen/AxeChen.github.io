@@ -2,7 +2,7 @@
 layout:     post
 title:      FFmpeg—项目导入FFmpeg动态库（二）
 subtitle:   FFmpeg系列
-date:       2018-08-28
+date:       2018-08-29
 author:     陈再峰
 header-img: img/post-bg-android.jpg
 catalog: true
