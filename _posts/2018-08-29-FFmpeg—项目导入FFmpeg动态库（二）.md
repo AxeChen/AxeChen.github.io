@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      FFmpeg—项目导入FFmpeg动态库（二）
-subtitle:   FFmpeg系列
+title:      FFmpeg——AndroidStudio导入FFmpeg动态库（二）。
+subtitle:   AndroidStudio导入FFmpeg动态库。
 date:       2018-08-29
 author:     陈再峰
 header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Android
+	- NDK
 	- FFmpeg
 ---
 
