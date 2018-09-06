@@ -1,17 +1,3 @@
----
-layout:     post
-title:      FFmpeg——AndroidStudio导入FFmpeg动态库（二）。
-subtitle:   AndroidStudio导入FFmpeg动态库。
-date:       2018-08-29
-author:     陈再峰
-header-img: img/post-bg-android.jpg
-catalog: true
-tags:
-    - Android
-	- NDK
-	- FFmpeg
----
-
 AndroidStudio导入FFmpeg动态库和一般的NDK开发导入动态库一样。首先我们准备好动态库。
 那么FFmpeg的动态库哪里来呢？
 

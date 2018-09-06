@@ -1,18 +1,3 @@
----
-layout:     post
-title:      FFmpeg——Linux编译FFmpeg动态库（一）。
-subtitle:   FFmpeg编译动态库。
-date:       2018-08-24
-author:     陈再峰
-header-img: img/post-bg-android.jpg
-catalog: true
-tags:
-    - Android
-	- NDK
-	- FFmpeg
----
-
-
 如果需要学习FFmpeg，则需要学会编译FFmpeg，在安卓开发中，一般是将FFmpeg的源代码编译成动态库供安卓项目调用。这里编译FFmpeg可以用Linux和Mac，这里只介绍Linux的编译FFmpeg的情况。
 #### 1、在这之前需要做的准备工作：
 * 准备一个Linux系统
