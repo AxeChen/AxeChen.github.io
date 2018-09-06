@@ -2,7 +2,7 @@
 layout:     post
 title:      FFmpeg——Linux编译FFmpeg动态库（一）。
 subtitle:   FFmpeg编译动态库。
-date:       2018-08-28
+date:       2018-08-24
 author:     陈再峰
 header-img: img/post-bg-android.jpg
 catalog: true
