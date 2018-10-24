@@ -1,13 +1,13 @@
 ---
 layout: page
-description: "念念不忘，必有回响；不忘初心，方得始终。"
+description: ""
 ---
 
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
-            {{ post.title }}
+            {{ post.name }}
         </h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
