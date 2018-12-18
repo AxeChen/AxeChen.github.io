@@ -103,5 +103,9 @@ friends: [
     },{
         title: "简书·尘封的落叶",
         href: "https://www.jianshu.com/u/05f7d21f41ed"
+    },
+    {
+        title: "6v的博客",
+        href: "http://wliu6v.github.io"
     }
 ]
