@@ -107,14 +107,13 @@ friends: [
     {
         title: "6v的博客",
         href: "https://wliu6v.github.io"
+    },{
+        title: "Caroline's blog",
+        href: "https://caroline_zt.coding.me/Caroline_ZT/"
     },
     {
-        title:"Caroline's blog",
-        href:"https://caroline_zt.coding.me/Caroline_ZT/"
-    },
-    {
-        title:"Aaron Lee's blog",
-        href:"https://aaronhi.com/"
+        title: "Aaron Lee's blog",
+        href: "https://aaronhi.com/"
     },
 
 ]
